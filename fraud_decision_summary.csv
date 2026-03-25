@@ -1,0 +1,5 @@
+decision,total_cases,fraud_cases,fraud_rate
+auto_approve,783,43,0.05491698595146871
+auto_block,11,8,0.7272727272727273
+escalated_review,64,35,0.546875
+manual_review,142,38,0.2676056338028169
